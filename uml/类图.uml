@@ -1,0 +1,13 @@
+@startuml
+class Car
+interface Run{
+Run(gasoline)
+}
+Driver -> Ferrari: 关联 drives >
+Ferrari o-> Wheel : 聚合 have 4 >
+Car<|-- Ferrari: 继承(泛化) <
+Run <|..Car: 实现 <
+gasoline <.. Run: 依赖 <
+
+公司 *-> 部门 : 组合，部门离开公司不能独立存在，have n >
+@enduml
