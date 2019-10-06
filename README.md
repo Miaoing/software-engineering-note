@@ -9,13 +9,14 @@
 
 ## 笔记内容
 1. [软件过程模型](https://github.com/orochiZhang/software-engineering-note/blob/master/软件过程.md)
-2. 应对变更
+2. [敏捷开发](https://github.com/orochiZhang/software-engineering-note/blob/master/敏捷开发.md)
+3. 应对变更
 ```
 1. 变更避免，使用系统原型，快速开发一个系统版本或者是系统的一部分，以校验客户需求和某些设计的可行性。
 2. 变更容忍，使用增量开发交付给用户，它支持变更避免和变更容忍，避免交付不成熟的需求实现，并且将变更成本控制在较低水平。
 ```
-3. [UML建模](https://github.com/orochiZhang/software-engineering-note/blob/master/UML.md)
-4. [软件测试]()
+4. [UML建模](https://github.com/orochiZhang/software-engineering-note/blob/master/UML.md)
+5. [软件测试]()
 
 
 ## 参考内容
@@ -23,3 +24,5 @@
 - [UML 各种图总结精华](https://zhuanlan.zhihu.com/p/44518805)
 - [软件工程 -- 开发模型](https://www.cnblogs.com/kzang/archive/2012/07/06/2578835.html)
 - [plantuml官方文档](http://plantuml.com/zh/index)
+- [RUP(Rational Unified Process)统一软件过程概述](https://www.cnblogs.com/vettel/p/3503359.html)
+- 维基百科，百度百科
