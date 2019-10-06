@@ -26,3 +26,4 @@
 - [plantuml官方文档](http://plantuml.com/zh/index)
 - [RUP(Rational Unified Process)统一软件过程概述](https://www.cnblogs.com/vettel/p/3503359.html)
 - 维基百科，百度百科
+- [老布谈敏捷](https://www.cnblogs.com/bootsagile/)
