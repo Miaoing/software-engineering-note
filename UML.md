@@ -14,4 +14,5 @@
 5. 实现，表示某个类实现某个接口。
 6. 依赖，是一种使用的关系，即一个类的实现需要另一个类的协助。代码体现：局部变量、方法的参数或者对静态方法的调用。
 
+![类图示例](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuKhEIImkLd1EBEBAp2j9BKfBJ4vL22hDg-O24XhfYSNvEPbvgPfSjLmkHPbbgKKAkdOARgb5HOb5cLOAJritlsYSef02aYbMiEE2IYZa0nM5PwIcvYXOARnedFLqGeT2Hc9Pge89K0tG9fiQNLs48SztBt_MkL_ZsURPJtkcQIhOW2nMiAdHqmEg15gnRjxplWr0KPXJ56pqz40Ej59uic_kYwtJW59SJrlNFEtVeQ05jFPbyugNqrSeW8nj0ThxVayFHEJvijrFzpH053xPqVkYUU_pxZNFLtS_NJlZwPmLG6LW1-O17UYGcfS231W0)
 
